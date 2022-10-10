@@ -17,6 +17,15 @@ body{
 
 }
 
+.contenedor{
+    width: 120rem;
+    /*margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;*/
+
+    margin: 0 auto;
+}
 /*clases: .clase{} 
 id: #id{
 
@@ -33,7 +42,10 @@ id: #id{
 font-size: 2rem;    
 }
 
+.nav-bg{
+    background-color: var(--secundario);
+}
 .navegacion-principal{
     background-color: var(--secundario);
-    
+
 }
