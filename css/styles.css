@@ -33,3 +33,7 @@ id: #id{
 font-size: 2rem;    
 }
 
+.navegacion-principal{
+    background-color: var(--secundario);
+    
+}
