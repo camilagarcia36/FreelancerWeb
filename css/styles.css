@@ -4,9 +4,7 @@
     --primario: #ffc107; 
     --secundario: #0097a7; 
     --gris: #757575; 
-    
 }
-
 html{
     font-size: 62.5%;
 }
@@ -16,14 +14,12 @@ body{
     font-family: 'Krub', sans-serif;
 
 }
-
 .contenedor{
     width: 120rem;
     /*margin-top: 0;
     margin-right: auto;
     margin-bottom: 0;
     margin-left: auto;*/
-
     margin: 0 auto;
 }
 /*clases: .clase{} 
@@ -32,10 +28,8 @@ id: #id{
 }*/
 
 .titulo{
-
     text-align: center;
-    font-size: 3.8rem;
-    
+    font-size: 3.8rem;   
 }
 .titulo span{
 
@@ -45,6 +39,7 @@ font-size: 2rem;
 .nav-bg{
     background-color: var(--secundario);
 }
+
 .navegacion-principal{
     background-color: var(--secundario);
 
